@@ -4,7 +4,7 @@
     <img src="https://s10.gifyu.com/images/Srozd.gif" />
 </h1>
 
-<h3 align="center">I'm a passionate frontend developer, I specialize in creating engaging and responsive user interfaces with a focus on clean, efficient code.</h3>
+<h3 align="center">I’m a passionate Frontend Developer who loves creating beautiful and functional web experiences. I enjoy diving into the latest technologies and exploring new tools to improve my skills and stay on top of industry trends.</h3>
 
 <br/>
 
